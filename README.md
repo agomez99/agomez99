@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&hide_border=true" />
 
 </details>
 
