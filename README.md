@@ -5,7 +5,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://github-readme-stats.agomez99.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -20,6 +20,7 @@
 ### Languages and Tools:
 
 
+![Anurag's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=radical)
 
 
 <details>
