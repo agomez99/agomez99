@@ -1,6 +1,7 @@
 ### Hi there, I'm Austine👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/austine_gomez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=austine_gomez)
+### Hi there, I'm Austine👋
 
 
 ### Spotify Playing 🎧
@@ -46,3 +47,4 @@
 [website]: https://austinegomez.herokuapp.com/
 [twitter]: https://twitter.com/austine_gomez
 [linkedin]: https://www.linkedin.com/in/austine-gomez/
+
