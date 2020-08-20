@@ -5,6 +5,7 @@
 
 ### Spotify Playing 🎧
 
+tokyonight
 
 <a href="https://natemoo-re.agomez99.vercel.app/now-playing?open">
     <img src="https://natemoo-re.agomez99.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
@@ -23,7 +24,7 @@
 ### Languages and Tools:
 
 
-![Anurag's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)
 
 
 <details>
