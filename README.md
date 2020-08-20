@@ -5,7 +5,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://github-readme-stats.agomez99.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/126549782)
+[<img src="github-readme-stats.agomez99.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/126549782)
 
 
 
