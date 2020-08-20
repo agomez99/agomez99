@@ -5,7 +5,10 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://github-readme-stats.agomez99.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://github-readme-stats.agomez99.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/126549782)
+
+
+
 
 ### Connect with me:
 
