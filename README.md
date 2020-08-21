@@ -16,6 +16,9 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomez99&layout=compact)](https://github.com/agomez99/github-readme-stats)
+
+
 <br>
 ## Skills
 
@@ -31,17 +34,14 @@
 <br>
 <br>
 
+
+
 ## Github  Activity
 
 ![Anurag's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)
 <br>
 <br>
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="agomez99's Github Stats" src="github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://austinegomez.herokuapp.com/
 [twitter]: https://twitter.com/austine_gomez
