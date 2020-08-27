@@ -4,11 +4,8 @@
 
 
 ### Spotify Playing 🎧
-
-<a href="https://natemoo-re.agomez99.vercel.app/now-playing?open">
-    <img src="https://natemoo-re.agomez99.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
+[<img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
+<br>
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
