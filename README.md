@@ -35,8 +35,16 @@
 
 
 ## Github  Activity
-
 ![Austine's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)
+<br>
+<br>
+
+
+<p align="center"><p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=agomez99" alt="Github Streak Stats">
+<br
+<br>
+
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=agomez99" alt="agomez99"/>
 <br>
 <br>
 
