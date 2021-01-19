@@ -1,10 +1,10 @@
 ### Hi there, I'm Austine👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/austine_gomez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=austine_gomez)
+[<p align="center"><p align="center">![Twitter Follow](https://img.shields.io/twitter/follow/austine_gomez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=austine_gomez)
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
+[<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
 <br>
 ### Connect with me:
 
