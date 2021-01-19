@@ -43,9 +43,9 @@
   
 <p align="center"><p align="center">Connect with me:
 
-[<img  alt="website" width="45px" color="blue" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img alt="Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  alt="website" width="45px" src="https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/browser-256.png"/>][website]
+[<img alt="Twitter" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
+[<img alt="LinkedIn" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
 
 <br>
 <br>
