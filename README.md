@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomez99&layout=compact)](https://github.com/agomez99/github-readme-stats)
+[<p align="center"><p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomez99&layout=compact)](https://github.com/agomez99/github-readme-stats)
 
 
 
@@ -35,7 +35,7 @@
 
 
 ## Github  Activity
-![Austine's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)
+[<p align="center"><p align="center">![Austine's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)]
 <br>
 <br>
 
