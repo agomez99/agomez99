@@ -52,7 +52,7 @@
   
 
 
-[website]: https://austinegomez.herokuapp.com/
+[website]: https://austineg.netlify.app/
 [twitter]: https://twitter.com/austine_gomez
 [linkedin]: https://www.linkedin.com/in/austine-gomez/
 
