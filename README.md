@@ -41,10 +41,11 @@
 <br>
 <br>
   
-### Connect with me:
-[<img  alt="website" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#center" />][website]
-[<img alt="Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#center" />][twitter]
-[<img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#center" />][linkedin]
+<p align="center"><p align="center">Connect with me:
+
+[<img  alt="website" width="45px" color="blue" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img alt="Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br>
