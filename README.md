@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## Github  Activity
+<p align="center"><p align="center">Github  Activity
 
 [<p align="center"><p align="center">![Austine's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)]
 <br>
