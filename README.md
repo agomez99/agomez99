@@ -6,14 +6,7 @@
   
 [<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
 
-### Connect with me:
 
-[<img alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#center" />][website]
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#center" />][twitter]
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#center" />][linkedin]
-
-<br>
-<br>
 
 [<p align="center"><p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomez99&layout=compact)](https://github.com/agomez99/github-readme-stats)
 
@@ -48,7 +41,14 @@
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=agomez99" alt="agomez99"/>
 <br>
 <br>
+  
+### Connect with me:
+[<img  alt="website" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg#center" />][website]
+[<img alt="Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#center" />][twitter]
+[<img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#center" />][linkedin]
 
+<br>
+<br>
 
 [website]: https://austinegomez.herokuapp.com/
 [twitter]: https://twitter.com/austine_gomez
