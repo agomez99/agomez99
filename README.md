@@ -5,7 +5,7 @@
 <h1 align="center"><h1 align="center">Spotify Playing 🎧
   
 [<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
-<br>
+
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
