@@ -2,6 +2,15 @@
 
 [<p align="center"><p align="center">![Twitter Follow](https://img.shields.io/twitter/follow/austine_gomez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=austine_gomez)
 
+<p align="center"><p align="center">Connect with me:
+
+[<img  alt="website" width="45px" src="https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/browser-256.png"/>][website]
+[<img alt="Twitter" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
+[<img alt="LinkedIn" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
+
+<br>
+<br>
+
 <h1 align="center"><h1 align="center">Spotify Playing 🎧
   
 [<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
@@ -41,14 +50,7 @@
 <br>
 <br>
   
-<p align="center"><p align="center">Connect with me:
 
-[<img  alt="website" width="45px" src="https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/browser-256.png"/>][website]
-[<img alt="Twitter" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
-[<img alt="LinkedIn" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
-
-<br>
-<br>
 
 [website]: https://austinegomez.herokuapp.com/
 [twitter]: https://twitter.com/austine_gomez
