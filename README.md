@@ -18,13 +18,12 @@
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/html-5.svg" />
 <img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/css-3.svg" />
 <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/javascript.svg" />
-<img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/react.svg" />
 <img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/nodejs-icon.svg" />
-<img  alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/mongodb.svg" />
 <img  alt="Git" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/git-icon.svg" />
 <img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/github-icon.svg" />
 <img  alt="Firebase" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/firebase.svg" />
 <img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/mysql.svg" />
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/react.svg" />
 
 </p>
 <br>
