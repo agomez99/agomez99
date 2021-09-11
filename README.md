@@ -50,7 +50,7 @@
 [<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
 
 
-[website]: https://austineg.netlify.app/
+[website]: https://austinegomez.com/
 [twitter]: https://twitter.com/austine_gomez
 [linkedin]: https://www.linkedin.com/in/austine-gomez/
 
