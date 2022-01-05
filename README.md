@@ -4,13 +4,6 @@
 [<img alt="Twitter" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img alt="LinkedIn" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
 
-<br>
-<br>
-
-
-
-[<p align="center"><p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agomez99&layout=compact)](https://github.com/agomez99/github-readme-stats)
-
 
 
 <p align="center">
@@ -26,24 +19,8 @@
 <img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/react.svg" />
 
 </p>
-<br>
-<br>
-
-<p align="center"><p align="center">Github  Activity
-
-![Austine's github stats](https://github-readme-stats.agomez99.vercel.app/api?username=agomez99&show_icons=true&theme=tokyonight)
-<br>
-<br>
 
 
-<p align="center"><p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=agomez99" alt="Github Streak Stats">
-<br
-<br>
-
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=agomez99" alt="agomez99"/>
-<br>
-<br>
-  
 
 <h1 align="center"><h1 align="center">Spotify Playing 🎧
   
