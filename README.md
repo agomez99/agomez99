@@ -1,4 +1,3 @@
-<h1 align="center"><h1 align="center"> Hi there, I'm Austine👋
 
 [<img  alt="website" width="45px" src="https://cdn4.iconfinder.com/data/icons/gradient-ui-1/512/browser-256.png"/>][website]
 [<img alt="Twitter" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
