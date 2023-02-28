@@ -11,7 +11,7 @@
 <img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/github-icon.svg" />
 <img  alt="Firebase" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/firebase.svg" />
 <img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/mysql.svg" />
-<img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/agomez99.github.io/master/images/react.svg" />
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/4b2396a6394b2621c72a40a17d5897f0d26c928f/images/react.svg" />
 </p>
 
 <h1 align="center"><h1 align="center">Spotify Playing 🎧
