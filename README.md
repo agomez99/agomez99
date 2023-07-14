@@ -10,7 +10,7 @@
 <img  alt="React" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/4b2396a6394b2621c72a40a17d5897f0d26c928f/images/react.svg" />
 </p>
 
-<h1 align="center"><h1 align="center">Spotify Playing 🎧
+<p align="center"><p align="center">Spotify Playing 🎧
   
 [<p align="center"><p align="center"><img src="https://spotify-now-playing-woad.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/126549782)
 
