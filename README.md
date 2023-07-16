@@ -1,6 +1,7 @@
-<img  alt="HTML5" src="https://github.com/agomez99/svgs/blob/main/images/banner.png" />
 
 <p align="center">
+  <img  alt="HTML5" src="https://github.com/agomez99/svgs/blob/main/images/banner.png" />
+
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/1a4d394ccb2e896f521a332445a58f3d20b41994/images/html-5.svg" />
 <img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/1a4d394ccb2e896f521a332445a58f3d20b41994/images/css-3.svg" />
 <img alt="JavaScript" width="30px"src="https://raw.githubusercontent.com/agomez99/svgs/5efc09aea0f3782ccc84723410f52237f7929a5c/images/javascript.svg" />
