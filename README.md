@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  alt="HTML5" src="https://github.com/agomez99/svgs/blob/main/images/banner.png" />
+  <img  alt="HTML5" src="https://github.com/agomez99/svgs/blob/main/images/banner.gif" />
 <p align="center">
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/1a4d394ccb2e896f521a332445a58f3d20b41994/images/html-5.svg" />
 <img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/agomez99/svgs/1a4d394ccb2e896f521a332445a58f3d20b41994/images/css-3.svg" />
